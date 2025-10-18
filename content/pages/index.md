@@ -751,5 +751,9 @@ seo:
   addTitleSuffix: true
   metaTags:
     - type: MetaTag
+      content: >-
+        <script async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3492254303357808"    
+        crossorigin="anonymous"></script>
 type: PageLayout
 ---
