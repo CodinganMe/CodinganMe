@@ -33,6 +33,8 @@ function Page(props) {
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 {site.favicon && <link rel="icon" href={site.favicon} />}
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3492254303357808"
+     crossorigin="anonymous"></script>
             </Head>
             <PageLayout page={page} site={site} />
         </>
