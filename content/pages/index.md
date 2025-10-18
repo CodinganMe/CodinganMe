@@ -745,7 +745,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: CodinganMe
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: This CodinganMe Website Soon
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
